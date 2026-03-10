@@ -20,7 +20,7 @@ Focado em construir aplicações reais, APIs REST, autenticação, CRUD completo
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Postman" height="40" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="Firebird" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Firebird_Logo.svg">
+  <img align="center" alt="Firebird" height="40" width="50" src="https://firebirdsql.org/file/about/firebird-logo-200.png">
 </div>
 
 ## O que estou desenvolvendo
