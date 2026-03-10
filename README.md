@@ -29,4 +29,5 @@ Focado em construir aplicações reais, APIs REST, autenticação, CRUD completo
 - Projetos full stack com foco em evolução prática
 
 ## Contato
-- GitHub: [@lucasviniciusrf](https://github.com/lucasviniciusrf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvin%C3%ADcius-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukvini158@gmail.com)
