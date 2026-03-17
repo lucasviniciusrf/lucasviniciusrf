@@ -11,8 +11,7 @@ Focado em construir aplicações reais, APIs REST, autenticação, CRUD completo
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F">
   <img align="center" alt="Spring Security" height="40" width="50" src="https://cdn.simpleicons.org/springsecurity/6DB33F">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="RxJS" height="40" width="50" src="https://cdn.simpleicons.org/rxjs/B7178C">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="RxJS" height="40" width="50" src="https://raw.githubusercontent.com/ReactiveX/rxjs/0bd47eab10dec89f245b888f1f26e03cb36d2a78/apps/rxjs.dev/src/assets/images/logos/Rx_Logo_S.png">  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
